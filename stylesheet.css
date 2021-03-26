@@ -1,9 +1,9 @@
-html, body { background: black; }
+html, body { background: #282828; }
 
 html { height: 100%; }
 
 body {
-  color: red;
+  color: #d69b7d;
   font-family: monospace;
   font-size: 1.3rem;
   line-height: 1.3;
